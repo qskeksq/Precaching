@@ -1,6 +1,6 @@
 # PreCaching
 
-## Bitmap PreCaching
+## 1. Bitmap PreCaching
 
 ### (1) 비동기 비트맵 로드 클래스
 
@@ -175,7 +175,7 @@ if (image != null) {
 loadBitmap();
 ```
 
-## RecyclerView Precaching
+## 2. RecyclerView PreCaching
 
 ### (1) PreCachingLayoutManager
 
