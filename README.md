@@ -2,7 +2,7 @@
 
 ## Bitmap PreCaching
 
-### (1) 비동기로 비트맵 로드 클래스
+### (1) 비동기 비트맵 로드 클래스
 
 ```java
 public class BitmapWorkerTask extends AsyncTask<Integer, Void, Bitmap> {
